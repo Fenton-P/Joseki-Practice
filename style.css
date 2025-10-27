@@ -1,0 +1,53 @@
+body {
+    background-color:#bf873d !important;
+    margin:0px;
+}
+canvas {
+    background-color:#dea712;
+}
+.key {
+    background-color:gray;
+    color:white;
+    font-size:30px;
+}
+.center {
+    text-align:center;
+}
+#canvas {
+    border:solid;
+    border-width:2px;
+}
+button {
+    padding-left:20px;
+    padding-right:20px;
+    background-color:#ebd31c;
+                
+}
+.over {
+    text-align:center;
+}
+.switchers {
+    position:Absolute;
+}
+.hoverStone {
+    position:absolute;
+    width: 30px;
+    height: 30px;
+    opacity:80%;
+}
+#sliderbg {
+    background:blue;
+    height:20px;
+    width:570px;
+    margin-top:20px;
+}
+#slider {
+    position:relative;
+    background-color:orange;
+    width:20px;
+    height:20px;
+}
+.header {
+    font-size:40px;
+    font-style:bold;
+}
